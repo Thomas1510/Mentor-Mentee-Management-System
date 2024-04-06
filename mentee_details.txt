@@ -1,0 +1,42 @@
+Mentee Details:
+Name: Agash
+Number: 234935887
+CGPA: 9.9
+Register Number: URK22CS3022
+
+Mentee Details:
+Name: 
+Number: 
+CGPA: 
+Register Number: 
+
+Mentee Details:
+Name: kalai
+Number: 
+CGPA: 
+Register Number: 
+
+Mentee Details:
+Name: thomas
+Number: 832932314
+CGPA: 10
+Register Number: 2021
+
+Mentee Details:
+Name: 
+Number: 
+CGPA: 
+Register Number: 
+
+Mentee Details:
+Name: xyz
+Number: 689
+CGPA: 9
+Register Number: 3045
+
+Mentee Details:
+Name: thomas
+Number: 3252
+CGPA: 8
+Register Number: 2021
+
